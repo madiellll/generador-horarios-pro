@@ -27,7 +27,7 @@ Este software fue construido utilizando herramientas modernas del ecosistema .NE
 
 El software es portátil y fácil de instalar. Para obtener la última versión gratuita:
 
-1. Ve a la sección de [**Releases**](https://github.com/TU-USUARIO/generador-horarios-pro/releases) en este repositorio.
+1. Ve a la sección de [**Releases**](https://github.com/madielll/Generador-Horarios-Pro/releases) en este repositorio.
 2. Descarga el archivo `.zip` o el instalador de la versión más reciente.
 3. Descomprime y ejecuta `GeneradorHorarios.exe` (no requiere configuraciones de red ni bases de datos externas).
 4. ¡Disfruta creando tus horarios!
@@ -45,7 +45,7 @@ Este proyecto se desarrolla y mantiene de forma independiente. Si esta herramien
 
 Tu apoyo es fundamental para seguir brindando actualizaciones y mejoras de forma gratuita para todos.
 
-[![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-FFC439?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/TU-USUARIO)
+[![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-FFC439?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/madielll)
 
 ---
 **Desarrollado con dedicación para la comunidad educativa.** 🎓
