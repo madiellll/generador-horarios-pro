@@ -40,6 +40,8 @@ Este proyecto se desarrolla y mantiene de forma independiente. Si esta herramien
 
 Tu apoyo es fundamental para seguir brindando actualizaciones y mejoras de forma gratuita para todos.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G8V220HXW5)
+
 [![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-FFC439?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/madielll)
 
 ---
