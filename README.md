@@ -34,7 +34,7 @@ Este software fue construido utilizando herramientas modernas del ecosistema .NE
 El software es portátil y fácil de instalar en cualquier sistema operativo. Para obtener la última versión gratuita:
 
 1. Ve a la sección de [**Releases**](https://github.com/madiellll/generador-horarios-pro/releases) en este repositorio.
-2. Descarga el archivo comprimido (`.zip` o `.tar.gz`) que corresponda a tu sistema operativo (Windows, macOS o Linux).
+2. Descarga el archivo comprimido (`.zip` o `.msi`) que corresponda a tu sistema operativo (Windows, macOS o Linux).
 3. Descomprime el archivo en tu computadora.
 4. Ejecuta el archivo principal (por ejemplo, `GeneradorHorarios.exe` en Windows o el binario correspondiente en Mac/Linux). ¡No requiere configuraciones de red ni bases de datos externas!
 5. ¡Disfruta creando tus horarios!
