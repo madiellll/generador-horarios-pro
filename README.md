@@ -10,7 +10,7 @@
 
 * 💻 **Multiplataforma y Alta Eficiencia:** Funciona de manera nativa en Windows, macOS y distribuciones de Linux. Generación ultrarrápida adaptada a tu hardware; corre fluidamente en computadoras modestas y aprovecha al máximo los equipos de alto rendimiento.
 * 🧠 **Motor Matemático con Diagnóstico Inteligente:** Algoritmos de optimización (Constraint Programming) que resuelven los horarios más complejos sin dejar huecos. Si hay una sobrecarga de horas, el sistema te indica exactamente qué clase genera el conflicto para que puedas solucionarlo de inmediato.
-* ⚙️ **Configuración Total del Centro Educativo:** * Define los días laborables según tus necesidades (por ejemplo, de lunes a viernes, o esquemas que incluyan sábados y domingos).
+* ⚙️ **Configuración Total del Centro Educativo:** * Define los fines de semana según tus necesidades (sabado y domingo o esquemas que incluyan viernes y sabados).
   * Configura la cantidad de bloques, días y asigna tiempos de descanso como recreos o almuerzos con nombres totalmente personalizados.
   * Personaliza el título oficial de tu centro educativo para que se refleje de manera elegante en las cabeceras de cada horario.
 * 📏 **Reglas Pedagógicas y Disponibilidad:** Gestiona de forma avanzada el tiempo libre docente y los días libres de los profesores. Configura límites de horas diarias y asignaturas consecutivas con un potente filtro de alcance: puedes aplicar reglas de forma global a todas las clases, a una clase específica o a un profesor en particular.
