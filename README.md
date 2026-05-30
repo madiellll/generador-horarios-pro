@@ -9,7 +9,7 @@
 ## ✨ Características Principales
 
 * 🧠 **Motor Matemático Avanzado:** Impulsado por algoritmos de optimización (Constraint Programming) que resuelven los horarios más complejos sin dejar huecos y respetando los tiempos de recreo.
-* 📏 **Reglas Pedagógicas Estrictas:** Permite configurar disponibilidad de docentes, días libres, límites de horas diarias y asignaturas que deben darse de forma consecutiva (Apegado estricto).
+* 📏 **Reglas Pedagógicas Estrictas:** Permite configurar disponibilidad de docentes, días libres, límites de horas diarias y asignaturas que deben darse de forma consecutiva.
 * 📄 **Exportación Profesional a PDF:** Genera e imprime horarios generales, horarios por docente, por aula y matrices completas de planes de estudio con un solo clic.
 * 🎨 **Interfaz Moderna e Intuitiva:** Diseñada con Avalonia UI, soporta Modo Oscuro y ofrece una experiencia de usuario fluida y amigable.
 * 🔓 **Totalmente Desbloqueado:** Sin licencias, sin fechas de caducidad y sin límites en la cantidad de aulas o profesores.
@@ -20,7 +20,7 @@ Este software fue construido utilizando herramientas modernas del ecosistema .NE
 
 * **C# / .NET:** Lenguaje base y framework.
 * **Avalonia UI:** Para una interfaz gráfica moderna, responsiva y de alto rendimiento.
-* **Google OR-Tools:** Motor de resolución de restricciones (CP-SAT solver) para la generación automática de los horarios.
+* **Google OR-Tools:** Motor de resolución de restricciones (CP-SAT solver).
 * **MigraDoc / PDFsharp:** Para la renderización y exportación de reportes en PDF de alta calidad.
 
 ## 🚀 Cómo Empezar (Descarga)
@@ -31,13 +31,6 @@ El software es portátil y fácil de instalar. Para obtener la última versión 
 2. Descarga el archivo `.zip` o el instalador de la versión más reciente.
 3. Descomprime y ejecuta `GeneradorHorarios.exe` (no requiere configuraciones de red ni bases de datos externas).
 4. ¡Disfruta creando tus horarios!
-
-*(Nota: En este repositorio se aloja la distribución oficial gratuita y la página web del proyecto).*
-
-## 🌐 Página Web Oficial
-
-Visita nuestra página de aterrizaje para más información visual sobre el software:
-🔗 **[tu-usuario.github.io/generador-horarios-pro](https://madielll.github.io/generador-horarios-pro)**
 
 ## ☕ Apoya el Proyecto
 
