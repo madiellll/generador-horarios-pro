@@ -8,12 +8,17 @@
 
 ## ✨ Características Principales
 
-* 💻 **Multiplataforma:** Funciona de manera nativa en Windows, macOS y distribuciones de Linux.
-* 🧠 **Motor Matemático Avanzado:** Impulsado por algoritmos de optimización (Constraint Programming) que resuelven los horarios más complejos sin dejar huecos y respetando los tiempos de recreo.
-* 📏 **Reglas Pedagógicas Estrictas:** Permite configurar disponibilidad de docentes, días libres, límites de horas diarias y asignaturas que deben darse.
-* 📄 **Exportación Profesional a PDF:** Genera e imprime horarios generales, horarios por docente, por aula y matrices completas de planes de estudio con un solo clic.
-* 🎨 **Interfaz Moderna e Intuitiva:** Diseñada con Avalonia UI, soporta Modo Oscuro y ofrece una experiencia de usuario fluida y amigable.
-* 🔓 **Totalmente Desbloqueado:** Sin licencias, sin fechas de caducidad y sin límites en la cantidad de aulas o profesores.
+* 💻 **Multiplataforma y Alta Eficiencia:** Funciona de manera nativa en Windows, macOS y distribuciones de Linux. Generación ultrarrápida adaptada a tu hardware; corre fluidamente en computadoras modestas y aprovecha al máximo los equipos de alto rendimiento.
+* 🧠 **Motor Matemático con Diagnóstico Inteligente:** Algoritmos de optimización (Constraint Programming) que resuelven los horarios más complejos sin dejar huecos. Si hay una sobrecarga de horas, el sistema te indica exactamente qué clase genera el conflicto para que puedas solucionarlo de inmediato.
+* ⚙️ **Configuración Total del Centro Educativo:** * Define los días laborables según tus necesidades (por ejemplo, de lunes a viernes, o esquemas que incluyan sábados y domingos).
+  * Configura la cantidad de bloques, días y asigna tiempos de descanso como recreos o almuerzos con nombres totalmente personalizados.
+  * Personaliza el título oficial de tu centro educativo para que se refleje de manera elegante en las cabeceras de cada horario.
+* 📏 **Reglas Pedagógicas y Disponibilidad:** Gestiona de forma avanzada el tiempo libre docente y los días libres de los profesores. Configura límites de horas diarias y asignaturas consecutivas con un potente filtro de alcance: puedes aplicar reglas de forma global a todas las clases, a una clase específica o a un profesor en particular.
+* 👁️ **Múltiples Visores Integrados:** Revisa con facilidad la distribución del tiempo antes de exportar mediante pantallas dedicadas para visualizar por Clases, Profesores, Horario General (Total) y Plan de Estudio. Incluye la útil función de copiado rápido al portapapeles.
+* 📄 **Exportación Profesional a PDF:** Genera y exporta reportes impecables de manera individual o masiva (todos a la vez). Es totalmente compatible con impresiones a color o configuraciones sin color (escala de grises) optimizadas para el ahorro de tinta.
+* 🌍 **Soporte Multilingüe:** Interfaz de usuario adaptada completamente a varios idiomas, incluyendo Español, English, Français, Português y Hebreo.
+* 💡 **Usabilidad Guiada:** Incorpora botones de asistencia y consejos interactivos en cada una de las ventanas críticas para acompañar al usuario paso a paso en el proceso de planificación.
+* 🔓 **Totalmente Desbloqueado:** Distribución 100% gratuita, sin activaciones de licencias, sin fechas de caducidad y sin ningún tipo de límite en la cantidad de aulas, asignaturas o profesores.
 
 ## ⚙️ Tecnologías Utilizadas
 
