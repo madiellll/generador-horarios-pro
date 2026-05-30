@@ -2,13 +2,9 @@
 
 **Generador de Horarios Pro** es una herramienta de escritorio profesional, rápida y **100% gratuita** diseñada para automatizar y optimizar la creación de horarios académicos para escuelas.
 
-![Badge Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
-![Badge Estado](https://img.shields.io/badge/Estado-Estable-success)
-![Badge Precio](https://img.shields.io/badge/Precio-Gratis-brightgreen)
+<img src="https://img.shields.io/badge/Versión-1.0.0-blue" alt="Badge Versión" /> <img src="https://img.shields.io/badge/Estado-Estable-success" alt="Badge Estado" /> <img src="https://img.shields.io/badge/Precio-Gratis-brightgreen" alt="Badge Precio" />
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 
 ## ✨ Características Principales
 
