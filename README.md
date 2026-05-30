@@ -6,8 +6,13 @@
 ![Badge Estado](https://img.shields.io/badge/Estado-Estable-success)
 ![Badge Precio](https://img.shields.io/badge/Precio-Gratis-brightgreen)
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ## ✨ Características Principales
 
+* 💻 **Multiplataforma:** Funciona de manera nativa en Windows, macOS y distribuciones de Linux.
 * 🧠 **Motor Matemático Avanzado:** Impulsado por algoritmos de optimización (Constraint Programming) que resuelven los horarios más complejos sin dejar huecos y respetando los tiempos de recreo.
 * 📏 **Reglas Pedagógicas Estrictas:** Permite configurar disponibilidad de docentes, días libres, límites de horas diarias y asignaturas que deben darse de forma consecutiva.
 * 📄 **Exportación Profesional a PDF:** Genera e imprime horarios generales, horarios por docente, por aula y matrices completas de planes de estudio con un solo clic.
@@ -19,18 +24,19 @@
 Este software fue construido utilizando herramientas modernas del ecosistema .NET:
 
 * **C# / .NET:** Lenguaje base y framework.
-* **Avalonia UI:** Para una interfaz gráfica moderna, responsiva y de alto rendimiento.
+* **Avalonia UI:** Para una interfaz gráfica moderna, responsiva y de alto rendimiento multiplataforma.
 * **Google OR-Tools:** Motor de resolución de restricciones (CP-SAT solver).
 * **MigraDoc / PDFsharp:** Para la renderización y exportación de reportes en PDF de alta calidad.
 
 ## 🚀 Cómo Empezar (Descarga)
 
-El software es portátil y fácil de instalar. Para obtener la última versión gratuita:
+El software es portátil y fácil de instalar en cualquier sistema operativo. Para obtener la última versión gratuita:
 
 1. Ve a la sección de [**Releases**](https://github.com/madiellll/generador-horarios-pro/releases) en este repositorio.
-2. Descarga el archivo `.zip` o el instalador de la versión más reciente.
-3. Descomprime y ejecuta `GeneradorHorarios.exe` (no requiere configuraciones de red ni bases de datos externas).
-4. ¡Disfruta creando tus horarios!
+2. Descarga el archivo comprimido (`.zip` o `.tar.gz`) que corresponda a tu sistema operativo (Windows, macOS o Linux).
+3. Descomprime el archivo en tu computadora.
+4. Ejecuta el archivo principal (por ejemplo, `GeneradorHorarios.exe` en Windows o el binario correspondiente en Mac/Linux). ¡No requiere configuraciones de red ni bases de datos externas!
+5. ¡Disfruta creando tus horarios!
 
 ## ☕ Apoya el Proyecto
 
