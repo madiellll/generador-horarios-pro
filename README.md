@@ -10,7 +10,7 @@
 
 * 💻 **Multiplataforma:** Funciona de manera nativa en Windows, macOS y distribuciones de Linux.
 * 🧠 **Motor Matemático Avanzado:** Impulsado por algoritmos de optimización (Constraint Programming) que resuelven los horarios más complejos sin dejar huecos y respetando los tiempos de recreo.
-* 📏 **Reglas Pedagógicas Estrictas:** Permite configurar disponibilidad de docentes, días libres, límites de horas diarias y asignaturas que deben darse de forma consecutiva.
+* 📏 **Reglas Pedagógicas Estrictas:** Permite configurar disponibilidad de docentes, días libres, límites de horas diarias y asignaturas que deben darse.
 * 📄 **Exportación Profesional a PDF:** Genera e imprime horarios generales, horarios por docente, por aula y matrices completas de planes de estudio con un solo clic.
 * 🎨 **Interfaz Moderna e Intuitiva:** Diseñada con Avalonia UI, soporta Modo Oscuro y ofrece una experiencia de usuario fluida y amigable.
 * 🔓 **Totalmente Desbloqueado:** Sin licencias, sin fechas de caducidad y sin límites en la cantidad de aulas o profesores.
