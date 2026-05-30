@@ -16,7 +16,7 @@
 * 📏 **Reglas Pedagógicas y Disponibilidad:** Gestiona de forma avanzada el tiempo libre docente y los días libres de los profesores. Configura límites de horas diarias y asignaturas consecutivas con un potente filtro de alcance: puedes aplicar reglas de forma global a todas las clases, a una clase específica o a un profesor en particular.
 * 👁️ **Múltiples Visores Integrados:** Revisa con facilidad la distribución del tiempo antes de exportar mediante pantallas dedicadas para visualizar por Clases, Profesores, Horario General (Total) y Plan de Estudio. Incluye la útil función de copiado rápido al portapapeles.
 * 📄 **Exportación Profesional a PDF:** Genera y exporta reportes impecables de manera individual o masiva (todos a la vez). Es totalmente compatible con impresiones a color o configuraciones sin color (escala de grises) optimizadas para el ahorro de tinta.
-* 🌍 **Soporte Multilingüe:** Interfaz de usuario adaptada completamente a varios idiomas, incluyendo Español, English, Français, Português y Hebreo.
+* 🌍 **Soporte Multilingüe:** Interfaz de usuario adaptada completamente a varios idiomas, incluyendo Español, English, Français, Português, Hebreo y Árabe.
 * 💡 **Usabilidad Guiada:** Incorpora botones de asistencia y consejos interactivos en cada una de las ventanas críticas para acompañar al usuario paso a paso en el proceso de planificación.
 * 🔓 **Totalmente Desbloqueado:** Distribución 100% gratuita, sin activaciones de licencias, sin fechas de caducidad y sin ningún tipo de límite en la cantidad de aulas, asignaturas o profesores.
 
