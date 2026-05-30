@@ -37,7 +37,7 @@ El software es portátil y fácil de instalar. Para obtener la última versión 
 ## 🌐 Página Web Oficial
 
 Visita nuestra página de aterrizaje para más información visual sobre el software:
-🔗 **[tu-usuario.github.io/generador-horarios-pro](https://tu-usuario.github.io/generador-horarios-pro)**
+🔗 **[tu-usuario.github.io/generador-horarios-pro](https://madielll.github.io/generador-horarios-pro)**
 
 ## ☕ Apoya el Proyecto
 
