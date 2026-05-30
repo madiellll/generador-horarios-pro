@@ -18,7 +18,7 @@
 * 📄 **Exportación Profesional a PDF:** Genera y exporta reportes impecables de manera individual o masiva (todos a la vez). Es totalmente compatible con impresiones a color o configuraciones sin color (escala de grises) optimizadas para el ahorro de tinta.
 * 🌍 **Soporte Multilingüe:** Interfaz de usuario adaptada completamente a varios idiomas, incluyendo Español, English, Français, Português, Hebreo y Árabe.
 * 💡 **Usabilidad Guiada:** Incorpora botones de asistencia y consejos interactivos en cada una de las ventanas críticas para acompañar al usuario paso a paso en el proceso de planificación.
-* 🔓 **Totalmente Desbloqueado:** Distribución 100% gratuita, sin activaciones de licencias, sin fechas de caducidad y sin ningún tipo de límite en la cantidad de aulas, asignaturas o profesores.
+* 🔓 **Totalmente Desbloqueado:** Distribución 100% gratuita, sin activaciones de licencias, sin fechas de caducidad y sin ningún tipo de límite en la cantidad de clases, asignaturas o profesores.
 
 ## ⚙️ Tecnologías Utilizadas
 
