@@ -51,3 +51,13 @@ Tu apoyo es fundamental para seguir brindando actualizaciones y mejoras de forma
 
 ---
 **Desarrollado con dedicación para la comunidad educativa.** 🎓
+
+## 📜 Licencia y Términos de Uso
+
+Este software es de código cerrado (Propiedad Intelectual) y se distribuye de manera **100% gratuita (Freeware)** para uso personal, educativo e institucional.
+
+Al descargar y utilizar **Generador de Horarios Pro**, aceptas los siguientes términos:
+* ✅ **Permitido:** Instalar, utilizar y generar horarios ilimitados de forma gratuita en cualquier institución.
+* ❌ **Prohibido:** Descompilar, aplicar ingeniería inversa, modificar el código, distribuir versiones alteradas o vender este software con fines de lucro.
+
+© 2026 Madiellll. Todos los derechos reservados.
