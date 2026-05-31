@@ -33,7 +33,7 @@ Este software fue construido utilizando herramientas modernas del ecosistema .NE
 
 El software es portátil y fácil de instalar en cualquier sistema operativo. Para obtener la última versión:
 
-1. Ve a la sección de **Releases** de este repositorio.
+1. Ve a la sección de [**Releases**](https://github.com/madiellll/generador-horarios-pro/releases) de este repositorio.
 2. Descarga el archivo correspondiente a tu sistema operativo:
    - **Windows:** `Generador.de.Horarios.Pro.V1.0.0.Windows.X64.zip`
    - **macOS Intel:** `GeneradorHorarios.Pro_Mac_Intel.zip`
@@ -41,7 +41,10 @@ El software es portátil y fácil de instalar en cualquier sistema operativo. Pa
    - **Linux (Debian/Ubuntu):** `GeneradorHorarios_1.0.0_amd64.deb`
 3. En Windows y macOS, descomprime el archivo descargado.
 4. En Linux, instala el paquete `.deb` o ábrelo con el gestor de software de tu distribución.
-5. Ejecuta comienza a crear tus horarios.
+5. Ejecuta **Generador Horarios Pro** y comienza a crear tus horarios.
+
+> 💡 **Consejo:** También puedes descargar siempre la versión más reciente desde:
+> https://github.com/madiellll/generador-horarios-pro/releases/latest
 
 ¡No requiere configuraciones de red ni bases de datos externas!
 
