@@ -6,6 +6,9 @@
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 
+<img width="1909" height="1032" alt="image" src="https://github.com/user-attachments/assets/333c9029-4e93-4d49-9fce-2f80822c1cad" />
+
+
 ## ✨ Características Principales
 
 * 💻 **Multiplataforma y Alta Eficiencia:** Funciona de manera nativa en Windows, macOS y distribuciones de Linux. Generación ultrarrápida adaptada a tu hardware; corre fluidamente en computadoras modestas y aprovecha al máximo los equipos de alto rendimiento.
