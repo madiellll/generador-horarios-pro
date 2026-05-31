@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 
-<img width="1909" height="1032" alt="image" src="https://github.com/user-attachments/assets/333c9029-4e93-4d49-9fce-2f80822c1cad" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/26df1ef4-1406-4a2a-9849-c8d6fc6d68f3" />
 
 
 ## ✨ Características Principales
